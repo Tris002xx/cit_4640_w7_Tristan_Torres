@@ -1,4 +1,4 @@
-# Tristan Torres Lab 7 
+# A01331949 Tristan Torres Lab 7 
 Create a new SSH Key pair
 ```
 ssh-keygen -t ed25519 -f ~/.ssh/aws 
